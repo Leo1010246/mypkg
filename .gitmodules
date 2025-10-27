@@ -1,0 +1,6 @@
+[submodule "mypkg-cpp"]
+	path = mypkg-cpp
+	url = https://github.com/Leo1010246/mypkg-cpp.git
+[submodule "mypkg-python"]
+	path = mypkg-python
+	url = https://github.com/Leo1010246/mypkg-python.git
